@@ -1,5 +1,5 @@
 1. in AbstractEncoder.php line 170
-2. at AbstractEncoder->process(*object*(Image), 'svg', *null*) in AbstractDriver.php line 77
+2. **at AbstractEncoder->process(*object*(Image), 'svg', *null*) in AbstractDriver.php line 77** 
 3. at AbstractDriver->encode(*object*(Image), 'svg', *null*) in Image.php line 119
 4. at Image->encode('svg', *null*) in Image.php line 139
 5. at Image->save('/data/recruitment/public/forms/uploads/userdocuments/31386_Citizenship.svg') in UploadsController.php line 204
