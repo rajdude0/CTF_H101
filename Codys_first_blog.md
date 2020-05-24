@@ -61,7 +61,7 @@ Tried, `http://34.74.105.127/b7370ccb5d/?page=auth` no luck
 
 Tried, `http://34.74.105.127/b7370ccb5d/?page=admin.inc` , BAAMM !! Got into admin page Directly. 
 
-Flag was at the bottom.
+**Flag was at the bottom.**
 
 ## 3. Flag 3
 
