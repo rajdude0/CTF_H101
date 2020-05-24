@@ -46,4 +46,10 @@
 46. at Pipeline->Illuminate\Routing\{closure}(*object*(Request)) in Pipeline.php line 104
 47. at Pipeline->then(*object*(Closure)) in Kernel.php line 150
 48. at Kernel->sendRequestThroughRouter(*object*(Request)) in Kernel.php line 117
-49. at Kernel->handle(*object*(Request)) i
+49. at Kernel->handle(*object*(Request)) 
+
+
+
+Dfadfa
+
+s
