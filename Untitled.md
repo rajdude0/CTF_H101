@@ -47,4 +47,4 @@
 47. at Pipeline->then(*object*(Closure)) in Kernel.php line 150
 48. at Kernel->sendRequestThroughRouter(*object*(Request)) in Kernel.php line 117
 49. at Kernel->handle(*object*(Request)) 
-
+50. 
