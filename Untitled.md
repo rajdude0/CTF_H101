@@ -48,8 +48,3 @@
 48. at Kernel->sendRequestThroughRouter(*object*(Request)) in Kernel.php line 117
 49. at Kernel->handle(*object*(Request)) 
 
-
-
-Dfadfa
-
-s
