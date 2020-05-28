@@ -23,7 +23,7 @@ Warning: move_uploaded_file(): Unable to move '/tmp/phpSayLpg' to 'files/c5068b7
 ERROR: Upload failed
 ```
 
-Got all the info required. The file content when uploaded is present at `/tmp/phpSayLpg`  and is being moved to files/<md5sum of filename>_file_name.<ext>
+Got all the info required. The file content when uploaded is present at `/tmp/phpSayLpg`  and is being moved to files/[md5sum of filename]_file_name.<ext>
 
 Great!
 
