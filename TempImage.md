@@ -8,7 +8,7 @@ download.png -->> 820c946b78eb0d3b0dfe2067189de065_download.php.png
 
 download2.png -->> 83ba84583557e3b03ad3bdc749370e73_download2.png
 
-Files were renamed to <<md5hash>>_<<realfilename>>.<ext>
+Files were renamed to [md5hash]_[realfilename].[ext]
 
 Tried to download 159df48875627e2f7f66dae584c5e3a5_flag.txt and some other didn't work
 
